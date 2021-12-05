@@ -1,5 +1,5 @@
 # Useful Extensions For Web Development
-- List of VSCode &amp; Google Chrome extensions for web development that I currently have installed and found very useful.
+> List of VSCode &amp; Google Chrome extensions for web development that I currently have installed and found very useful.
 
 ## VSCode
 
